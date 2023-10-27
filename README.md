@@ -19,6 +19,7 @@
   ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=Obsidian&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHyunKang&show_icons=true&theme=dark)
 <!--
 ### 안녕하세요, 개발자 강성현 입니다. 👋
 **SeongHyunKang/SeongHyunKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
