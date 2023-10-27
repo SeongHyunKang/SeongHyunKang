@@ -1,4 +1,4 @@
-### 안녕하세요, 개발자 강성현 입니다. 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Seong%20Hyun.&fontSize=50)
 
 - 💻 **프로그래밍 언어:** 
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -18,6 +18,7 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
 <!--
+### 안녕하세요, 개발자 강성현 입니다. 👋
 **SeongHyunKang/SeongHyunKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
